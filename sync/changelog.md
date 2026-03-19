@@ -1,0 +1,9 @@
+# Sync Changelog
+
+外部ツールとの同期履歴を時系列で記録します。
+
+## Format
+
+| Date | Tool | Target | Summary | Reflected by |
+|---|---|---|---|---|
+| 2026-03-19 | Cursor | 04-weekly-status-update | 初期4ファイルを作成 | codex |

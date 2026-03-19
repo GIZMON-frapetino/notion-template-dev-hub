@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build / cache
+_site/
+dist/
+build/
+tmp/
+temp/
+*.log
+
+# Sensitive / local env
+.env
+.env.*
+secrets/
+private/
+
+# Large raw exports (manage outside canonical repo)
+raw-exports/
