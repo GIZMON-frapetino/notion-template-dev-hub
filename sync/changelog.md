@@ -7,3 +7,4 @@
 | Date | Tool | Target | Summary | Reflected by |
 |---|---|---|---|---|
 | 2026-03-19 | Cursor | 04-weekly-status-update | 初期4ファイルを作成 | codex |
+| 2026-03-19 | Cursor | 05-request-routing | 初期4ファイルを作成 | codex |
