@@ -15,6 +15,12 @@
 - [Resume Prompt](../context/resume-prompt.md)
 - [Execution Checklist](execution-checklist.md)
 
+## Public site and usage
+
+- Live URL: https://gizmon-frapetino.github.io/notion-template-dev-hub/
+- まず `Current Status` を確認し、次に `Execution Checklist` に沿って作業する
+- 次回会話再開時は `Resume Prompt` をそのまま使用する
+
 ## Operating principle
 
 - 設計の正本は GitHub
