@@ -7,6 +7,7 @@
 | ファイル | 内容 |
 |---|---|
 | [specification.md](./specification.md) | 製品概要・DBスキーマ・ビュー・リレーション・ワークフロー |
+| [operations.md](./operations.md) | セットアップ・最小運用ルール・振り返り・AI活用・FAQ |
 
 ## 関連（Notion 側）
 
@@ -15,5 +16,5 @@
 
 ## 運用メモ
 
-- **GitHub の `specification.md` を正本**とし、Notion 側は配布・レビュー用に同期する。
-- 運用ガイド本文は別途 `運用方法` ドキュメントとして追加予定（受領後 `operations.md` 等に格納）。
+- **GitHub の `specification.md` / `operations.md` を正本**とし、Notion 側は配布・レビュー用に同期する。
+- Notion を更新したら `sync/changelog.md` に記録し、差分を GitHub に反映する。
