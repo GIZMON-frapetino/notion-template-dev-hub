@@ -14,6 +14,7 @@
 - [Current Status](../context/current-status.md)
 - [Resume Prompt](../context/resume-prompt.md)
 - [Execution Checklist](execution-checklist.md)
+- [T-03 案件・クライアントCRM 仕様（リポジトリ内）](https://github.com/GIZMON-frapetino/notion-template-dev-hub/blob/main/specs/T-03-client-crm/specification.md)
 
 ## Public site and usage
 
