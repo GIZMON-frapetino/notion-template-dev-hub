@@ -8,6 +8,7 @@
 |---|---|
 | [specification.md](./specification.md) | 製品概要・DBスキーマ・ビュー・リレーション・ワークフロー |
 | [operations.md](./operations.md) | セットアップ・最小運用ルール・振り返り・AI活用・FAQ |
+| [api-integration.md](./api-integration.md) | Notion API / MCP 向けプロパティ型・`pages.create` JSON・前処理・制約 |
 
 ## 関連（Notion 側）
 
@@ -16,5 +17,5 @@
 
 ## 運用メモ
 
-- **GitHub の `specification.md` / `operations.md` を正本**とし、Notion 側は配布・レビュー用に同期する。
+- **GitHub の `specification.md` / `operations.md` / `api-integration.md` を正本**とし、Notion 側は配布・レビュー用に同期する。
 - Notion を更新したら `sync/changelog.md` に記録し、差分を GitHub に反映する。

@@ -16,6 +16,7 @@
 - [Execution Checklist](execution-checklist.md)
 - [T-03 案件・クライアントCRM — 仕様](https://github.com/GIZMON-frapetino/notion-template-dev-hub/blob/main/specs/T-03-client-crm/specification.md)
 - [T-03 案件・クライアントCRM — 運用方法](https://github.com/GIZMON-frapetino/notion-template-dev-hub/blob/main/specs/T-03-client-crm/operations.md)
+- [T-03 案件・クライアントCRM — API連携仕様](https://github.com/GIZMON-frapetino/notion-template-dev-hub/blob/main/specs/T-03-client-crm/api-integration.md)
 
 ## Public site and usage
 

@@ -105,7 +105,7 @@
 3. 人は「次アクション」「期限」「紐づけ（クライアント/商談/案件）」だけ確認して確定
 4. API / MCP を使う場合は、AIが **JSON** 形式で出力し、そのままDBに投入する
 
-[T-03 API連携仕様書](https://www.notion.so/T-03-API-2b9ac2dff4364a21bcdff7e741e87c4b?pvs=21)
+[T-03 API連携仕様書](https://www.notion.so/T-03-API-2b9ac2dff4364a21bcdff7e741e87c4b?pvs=21)（GitHub正本: [api-integration.md](./api-integration.md)）
 
 **コツ**
 

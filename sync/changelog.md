@@ -10,3 +10,4 @@
 | 2026-03-19 | Cursor | 05-request-routing | 初期4ファイルを作成 | codex |
 | 2026-03-21 | Cursor | specs/T-03-client-crm | T-03 仕様説明書を追加 | codex |
 | 2026-03-21 | Cursor | specs/T-03-client-crm | T-03 運用方法（operations.md）を追加 | codex |
+| 2026-03-21 | Cursor | specs/T-03-client-crm | T-03 API連携仕様（api-integration.md）を追加 | codex |
